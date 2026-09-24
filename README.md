@@ -8,6 +8,7 @@ This portfolio website highlights Riya's technical expertise in **Excel, SQL, Py
 
 ## 🚀 Live Demo & Deployment
 
+Portfolio Link :- https://riyasinghh0811-eng.github.io/portfolio/
 - **GitHub Repository**: [https://github.com/riyasinghh0811-eng](https://github.com/riyasinghh0811-eng)
 - **LinkedIn Profile**: [https://www.linkedin.com/in/riya-jadon-595a1a428](https://www.linkedin.com/in/riya-jadon-595a1a428)
 - **GitHub Pages Deployment**: Simply push to GitHub and enable GitHub Pages under **Settings > Pages > Branch: main / root**.
